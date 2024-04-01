@@ -10,7 +10,8 @@ This Flutter project is a clone of the user interface (UI) of the Canva applicat
 - Responsive design for various screen sizes, ensuring consistent user experience across devices.
 
 ## Screenshots
-
+<img src="![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 01 45 01](https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1)
+" width="200" height="400">
 
 ## Getting Started
 To run this Flutter project locally, follow these steps:
@@ -35,7 +36,8 @@ Bu Flutter projesi, Canva uygulamasının kullanıcı arayüzünün (UI) bir klo
 - Çeşitli ekran boyutları için duyarlı tasarım, cihazlar arasında tutarlı bir kullanıcı deneyimi sağlar.
 
 ## Ekran Görüntüleri
-[//]: # (Uygulamanızın ekran görüntülerini buraya ekleyin)
+<img src="![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 01 45 01](https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1)
+" width="200" height="400">
 
 ## Başlangıç
 Bu Flutter projesini yerel olarak çalıştırmak için şu adımları izleyin:
