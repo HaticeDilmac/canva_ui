@@ -35,8 +35,7 @@ Bu Flutter projesi, Canva uygulamasının kullanıcı arayüzünün (UI) bir klo
 - Çeşitli ekran boyutları için duyarlı tasarım, cihazlar arasında tutarlı bir kullanıcı deneyimi sağlar.
 
 ## Ekran Görüntüleri
-<img src="![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 01 45 01](https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1)
-" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1" width="200" height="400">
 
 ## Başlangıç
 Bu Flutter projesini yerel olarak çalıştırmak için şu adımları izleyin:
