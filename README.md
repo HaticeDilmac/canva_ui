@@ -10,8 +10,7 @@ This Flutter project is a clone of the user interface (UI) of the Canva applicat
 - Responsive design for various screen sizes, ensuring consistent user experience across devices.
 
 ## Screenshots
-<img src="https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1
-" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/canva_ui/assets/100489350/d4f29e05-e1f1-45f1-8caf-2ef4a5c8dea1" width="200" height="400">
 
 ## Getting Started
 To run this Flutter project locally, follow these steps:
